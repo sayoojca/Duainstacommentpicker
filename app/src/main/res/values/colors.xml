@@ -1,0 +1,8 @@
+<resources>
+    <color name="brand_purple">#7C3AED</color>
+    <color name="brand_pink">#EC4899</color>
+    <color name="brand_dark">#17111F</color>
+    <color name="brand_muted">#6B6473</color>
+    <color name="brand_bg">#FAF8FC</color>
+    <color name="brand_card">#FFFFFF</color>
+</resources>
